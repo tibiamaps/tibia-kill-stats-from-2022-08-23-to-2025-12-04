@@ -1,0 +1,3800 @@
+{
+	"killstatistics": {
+		"world": "Dracobra",
+		"entries": [
+			{
+				"race": "(elemental forces)",
+				"last_day_players_killed": 8,
+				"last_day_killed": 0,
+				"last_week_players_killed": 203,
+				"last_week_killed": 0
+			},
+			{
+				"race": "Achad",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "Apprentice Sheng",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 3,
+				"last_week_killed": 0
+			},
+			{
+				"race": "Arthom The Hunter",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 2,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Avalanche",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 11
+			},
+			{
+				"race": "Axeitus Headbanger",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "Bibby Bloodbath",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5
+			},
+			{
+				"race": "Black Knight",
+				"last_day_players_killed": 1,
+				"last_day_killed": 23,
+				"last_week_players_killed": 1,
+				"last_week_killed": 46
+			},
+			{
+				"race": "Black Vixen",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Bloodpaw",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "Bovinus",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "Cave Spider",
+				"last_day_players_killed": 1,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 0
+			},
+			{
+				"race": "Colerian the Barbarian",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "Cursed Gladiator",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "Darakan the Executioner",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Deathbine",
+				"last_day_players_killed": 0,
+				"last_day_killed": 51,
+				"last_week_players_killed": 0,
+				"last_week_killed": 177
+			},
+			{
+				"race": "Deathbringer",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Dharalion",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Diseased Bill",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 1,
+				"last_week_killed": 31
+			},
+			{
+				"race": "Diseased Dan",
+				"last_day_players_killed": 0,
+				"last_day_killed": 16,
+				"last_week_players_killed": 0,
+				"last_week_killed": 41
+			},
+			{
+				"race": "Diseased Fred",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 1,
+				"last_week_killed": 31
+			},
+			{
+				"race": "Drasilla",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 11
+			},
+			{
+				"race": "Enpa Yolo",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "Esmeralda",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5
+			},
+			{
+				"race": "Fallen Mooh'Tah Master Ghar",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Fleshcrawler",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "Foreman Kneebiter",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Frostfur",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "Gnorre Chyllson",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Grimgor Guteater",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 11
+			},
+			{
+				"race": "Grorlam",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 6,
+				"last_week_killed": 0
+			},
+			{
+				"race": "Heoni",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Hide",
+				"last_day_players_killed": 1,
+				"last_day_killed": 86,
+				"last_week_players_killed": 1,
+				"last_week_killed": 306
+			},
+			{
+				"race": "High Templar Cobrass",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Koshei the Deathless",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "Kraknaknork",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 44
+			},
+			{
+				"race": "Kreebosh the Exile",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 11
+			},
+			{
+				"race": "Kroazur",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "Mad Mage",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3,
+				"last_week_players_killed": 0,
+				"last_week_killed": 3
+			},
+			{
+				"race": "Mad Technomancer",
+				"last_day_players_killed": 0,
+				"last_day_killed": 10,
+				"last_week_players_killed": 0,
+				"last_week_killed": 16
+			},
+			{
+				"race": "Mamma Longlegs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 3
+			},
+			{
+				"race": "Man in the Cave",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Mooh'Tah Master",
+				"last_day_players_killed": 1,
+				"last_day_killed": 0,
+				"last_week_players_killed": 4,
+				"last_week_killed": 0
+			},
+			{
+				"race": "Morik the Gladiator",
+				"last_day_players_killed": 0,
+				"last_day_killed": 8,
+				"last_week_players_killed": 0,
+				"last_week_killed": 13
+			},
+			{
+				"race": "Muglex Clan Chief",
+				"last_day_players_killed": 0,
+				"last_day_killed": 314,
+				"last_week_players_killed": 1,
+				"last_week_killed": 1852
+			},
+			{
+				"race": "Munster",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 3
+			},
+			{
+				"race": "Norgle Glacierbeard",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Ocyakao",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Oodok Witchmaster",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "Orcus the Cruel",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "Renegade Orc",
+				"last_day_players_killed": 0,
+				"last_day_killed": 10,
+				"last_week_players_killed": 0,
+				"last_week_killed": 14
+			},
+			{
+				"race": "Ribstride",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "Rocky",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "Ron the Ripper",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Rotworm Queen",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Shadowpelt",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Shard of Corruption",
+				"last_day_players_killed": 0,
+				"last_day_killed": 27,
+				"last_week_players_killed": 1,
+				"last_week_killed": 75
+			},
+			{
+				"race": "Slim",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 11
+			},
+			{
+				"race": "Spirit of Earth",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 11
+			},
+			{
+				"race": "Spirit of Fire",
+				"last_day_players_killed": 1,
+				"last_day_killed": 5,
+				"last_week_players_killed": 1,
+				"last_week_killed": 9
+			},
+			{
+				"race": "Spirit of Water",
+				"last_day_players_killed": 0,
+				"last_day_killed": 6,
+				"last_week_players_killed": 0,
+				"last_week_killed": 10
+			},
+			{
+				"race": "Svoren the Mad",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "The Blightfather",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "The Bloodtusk",
+				"last_day_players_killed": 0,
+				"last_day_killed": 23,
+				"last_week_players_killed": 0,
+				"last_week_killed": 61
+			},
+			{
+				"race": "The Bloodweb",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "The Collector",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 8
+			},
+			{
+				"race": "The Corruptor",
+				"last_day_players_killed": 0,
+				"last_day_killed": 322,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1951
+			},
+			{
+				"race": "The Dark Dancer",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 11
+			},
+			{
+				"race": "The Hag",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 11
+			},
+			{
+				"race": "The Hairy One",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 39
+			},
+			{
+				"race": "The Horned Fox",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "The Masked Marauder",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "The Mutated Pumpkin",
+				"last_day_players_killed": 23,
+				"last_day_killed": 5,
+				"last_week_players_killed": 140,
+				"last_week_killed": 5
+			},
+			{
+				"race": "The Obliverator",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "The Pale Count",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 4,
+				"last_week_killed": 0
+			},
+			{
+				"race": "The Pit Lord",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "The Snapper",
+				"last_day_players_killed": 0,
+				"last_day_killed": 53,
+				"last_week_players_killed": 0,
+				"last_week_killed": 178
+			},
+			{
+				"race": "The Weakened Count",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Trollwut",
+				"last_day_players_killed": 0,
+				"last_day_killed": 40,
+				"last_week_players_killed": 3,
+				"last_week_killed": 331
+			},
+			{
+				"race": "Webster",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Willi Wasp",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Yaga the Crone",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "Zomba",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "acid blobs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2305,
+				"last_week_players_killed": 0,
+				"last_week_killed": 10488
+			},
+			{
+				"race": "acolytes of the cult",
+				"last_day_players_killed": 1,
+				"last_day_killed": 3666,
+				"last_week_players_killed": 4,
+				"last_week_killed": 10572
+			},
+			{
+				"race": "adepts of the cult",
+				"last_day_players_killed": 5,
+				"last_day_killed": 3526,
+				"last_week_players_killed": 12,
+				"last_week_killed": 9476
+			},
+			{
+				"race": "adventurers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 285,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1451
+			},
+			{
+				"race": "amazons",
+				"last_day_players_killed": 0,
+				"last_day_killed": 12186,
+				"last_week_players_killed": 4,
+				"last_week_killed": 63078
+			},
+			{
+				"race": "ancient scarabs",
+				"last_day_players_killed": 26,
+				"last_day_killed": 11262,
+				"last_week_players_killed": 152,
+				"last_week_killed": 35819
+			},
+			{
+				"race": "angry adventurers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 6,
+				"last_week_players_killed": 0,
+				"last_week_killed": 69
+			},
+			{
+				"race": "arachnophobicas",
+				"last_day_players_killed": 19,
+				"last_day_killed": 1013,
+				"last_week_players_killed": 23,
+				"last_week_killed": 1215
+			},
+			{
+				"race": "assassins",
+				"last_day_players_killed": 4,
+				"last_day_killed": 1892,
+				"last_week_players_killed": 11,
+				"last_week_killed": 4368
+			},
+			{
+				"race": "azure frogs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 760,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1806
+			},
+			{
+				"race": "badgers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 12303,
+				"last_week_players_killed": 0,
+				"last_week_killed": 42080
+			},
+			{
+				"race": "bandits",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2750,
+				"last_week_players_killed": 2,
+				"last_week_killed": 9015
+			},
+			{
+				"race": "banshees",
+				"last_day_players_killed": 0,
+				"last_day_killed": 27,
+				"last_week_players_killed": 0,
+				"last_week_killed": 69
+			},
+			{
+				"race": "barbarian bloodwalkers",
+				"last_day_players_killed": 1,
+				"last_day_killed": 2257,
+				"last_week_players_killed": 13,
+				"last_week_killed": 8716
+			},
+			{
+				"race": "barbarian brutetamers",
+				"last_day_players_killed": 1,
+				"last_day_killed": 3796,
+				"last_week_players_killed": 5,
+				"last_week_killed": 15899
+			},
+			{
+				"race": "barbarian headsplitters",
+				"last_day_players_killed": 2,
+				"last_day_killed": 8520,
+				"last_week_players_killed": 7,
+				"last_week_killed": 40432
+			},
+			{
+				"race": "barbarian skullhunters",
+				"last_day_players_killed": 1,
+				"last_day_killed": 8046,
+				"last_week_players_killed": 3,
+				"last_week_killed": 37741
+			},
+			{
+				"race": "bats",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7631,
+				"last_week_players_killed": 6,
+				"last_week_killed": 34964
+			},
+			{
+				"race": "bears",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1198,
+				"last_week_players_killed": 5,
+				"last_week_killed": 7454
+			},
+			{
+				"race": "behemoths",
+				"last_day_players_killed": 1,
+				"last_day_killed": 170,
+				"last_week_players_killed": 4,
+				"last_week_killed": 334
+			},
+			{
+				"race": "black sheep",
+				"last_day_players_killed": 0,
+				"last_day_killed": 21,
+				"last_week_players_killed": 0,
+				"last_week_killed": 155
+			},
+			{
+				"race": "black sphinx acolytes",
+				"last_day_players_killed": 25,
+				"last_day_killed": 210,
+				"last_week_players_killed": 200,
+				"last_week_killed": 947
+			},
+			{
+				"race": "blood beasts",
+				"last_day_players_killed": 3,
+				"last_day_killed": 654,
+				"last_week_players_killed": 4,
+				"last_week_killed": 1596
+			},
+			{
+				"race": "blood crabs",
+				"last_day_players_killed": 3,
+				"last_day_killed": 4591,
+				"last_week_players_killed": 15,
+				"last_week_killed": 19658
+			},
+			{
+				"race": "blood hands",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 1,
+				"last_week_killed": 44
+			},
+			{
+				"race": "blood priests",
+				"last_day_players_killed": 1,
+				"last_day_killed": 253,
+				"last_week_players_killed": 1,
+				"last_week_killed": 784
+			},
+			{
+				"race": "blue djinns",
+				"last_day_players_killed": 2,
+				"last_day_killed": 895,
+				"last_week_players_killed": 14,
+				"last_week_killed": 2838
+			},
+			{
+				"race": "boars",
+				"last_day_players_killed": 0,
+				"last_day_killed": 114,
+				"last_week_players_killed": 1,
+				"last_week_killed": 834
+			},
+			{
+				"race": "bog frogs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 23
+			},
+			{
+				"race": "bog raiders",
+				"last_day_players_killed": 10,
+				"last_day_killed": 1794,
+				"last_week_players_killed": 24,
+				"last_week_killed": 2818
+			},
+			{
+				"race": "bonebeasts",
+				"last_day_players_killed": 9,
+				"last_day_killed": 12070,
+				"last_week_players_killed": 136,
+				"last_week_killed": 49640
+			},
+			{
+				"race": "bonelords",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7827,
+				"last_week_players_killed": 9,
+				"last_week_killed": 28924
+			},
+			{
+				"race": "boogies",
+				"last_day_players_killed": 5,
+				"last_day_killed": 1316,
+				"last_week_players_killed": 14,
+				"last_week_killed": 3922
+			},
+			{
+				"race": "braindeaths",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3,
+				"last_week_players_killed": 2,
+				"last_week_killed": 27
+			},
+			{
+				"race": "breach broods",
+				"last_day_players_killed": 2,
+				"last_day_killed": 0,
+				"last_week_players_killed": 5,
+				"last_week_killed": 0
+			},
+			{
+				"race": "bugs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5011,
+				"last_week_players_killed": 11,
+				"last_week_killed": 33443
+			},
+			{
+				"race": "burning gladiators",
+				"last_day_players_killed": 3,
+				"last_day_killed": 48,
+				"last_week_players_killed": 27,
+				"last_week_killed": 218
+			},
+			{
+				"race": "burster spectres",
+				"last_day_players_killed": 38,
+				"last_day_killed": 6046,
+				"last_week_players_killed": 74,
+				"last_week_killed": 11026
+			},
+			{
+				"race": "butterflies",
+				"last_day_players_killed": 0,
+				"last_day_killed": 601,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2258
+			},
+			{
+				"race": "calamaries",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5,
+				"last_week_players_killed": 0,
+				"last_week_killed": 9
+			},
+			{
+				"race": "carniphilas",
+				"last_day_players_killed": 5,
+				"last_day_killed": 7265,
+				"last_week_players_killed": 20,
+				"last_week_killed": 26889
+			},
+			{
+				"race": "carnivorous butterflies",
+				"last_day_players_killed": 0,
+				"last_day_killed": 429,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1186
+			},
+			{
+				"race": "carrion worms",
+				"last_day_players_killed": 4,
+				"last_day_killed": 8677,
+				"last_week_players_killed": 21,
+				"last_week_killed": 56204
+			},
+			{
+				"race": "cats",
+				"last_day_players_killed": 0,
+				"last_day_killed": 615,
+				"last_week_players_killed": 0,
+				"last_week_killed": 3109
+			},
+			{
+				"race": "cave parrots",
+				"last_day_players_killed": 0,
+				"last_day_killed": 186,
+				"last_week_players_killed": 0,
+				"last_week_killed": 198
+			},
+			{
+				"race": "cave rats",
+				"last_day_players_killed": 0,
+				"last_day_killed": 8008,
+				"last_week_players_killed": 13,
+				"last_week_killed": 52549
+			},
+			{
+				"race": "centipedes",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5272,
+				"last_week_players_killed": 5,
+				"last_week_killed": 27863
+			},
+			{
+				"race": "chakoya toolshapers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 85
+			},
+			{
+				"race": "chakoya tribewardens",
+				"last_day_players_killed": 0,
+				"last_day_killed": 355,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1641
+			},
+			{
+				"race": "chakoya windcallers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 63
+			},
+			{
+				"race": "chickens",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1023,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5237
+			},
+			{
+				"race": "clay guardians",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2571,
+				"last_week_players_killed": 10,
+				"last_week_killed": 7453
+			},
+			{
+				"race": "clomps",
+				"last_day_players_killed": 0,
+				"last_day_killed": 49,
+				"last_week_players_killed": 3,
+				"last_week_killed": 221
+			},
+			{
+				"race": "cobras",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4187,
+				"last_week_players_killed": 0,
+				"last_week_killed": 18507
+			},
+			{
+				"race": "coral frogs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 428,
+				"last_week_players_killed": 0,
+				"last_week_killed": 781
+			},
+			{
+				"race": "corrupted ghosts",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4792,
+				"last_week_players_killed": 2,
+				"last_week_killed": 37540
+			},
+			{
+				"race": "corrupted skeletons",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4661,
+				"last_week_players_killed": 3,
+				"last_week_killed": 38896
+			},
+			{
+				"race": "corym charlatans",
+				"last_day_players_killed": 4,
+				"last_day_killed": 19695,
+				"last_week_players_killed": 38,
+				"last_week_killed": 107625
+			},
+			{
+				"race": "corym skirmishers",
+				"last_day_players_killed": 39,
+				"last_day_killed": 18232,
+				"last_week_players_killed": 241,
+				"last_week_killed": 95063
+			},
+			{
+				"race": "corym vanguards",
+				"last_day_players_killed": 10,
+				"last_day_killed": 4543,
+				"last_week_players_killed": 45,
+				"last_week_killed": 22153
+			},
+			{
+				"race": "crabs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3774,
+				"last_week_players_killed": 0,
+				"last_week_killed": 16086
+			},
+			{
+				"race": "crawlers",
+				"last_day_players_killed": 8,
+				"last_day_killed": 509,
+				"last_week_players_killed": 22,
+				"last_week_killed": 2205
+			},
+			{
+				"race": "crazed beggars",
+				"last_day_players_killed": 0,
+				"last_day_killed": 595,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2468
+			},
+			{
+				"race": "crazed summer rearguards",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5
+			},
+			{
+				"race": "crazed summer vanguards",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 6
+			},
+			{
+				"race": "crazed winter rearguards",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 11,
+				"last_week_killed": 1423
+			},
+			{
+				"race": "crazed winter vanguards",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 4,
+				"last_week_killed": 1098
+			},
+			{
+				"race": "crimson frogs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 534,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1144
+			},
+			{
+				"race": "crocodiles",
+				"last_day_players_killed": 1,
+				"last_day_killed": 20517,
+				"last_week_players_killed": 15,
+				"last_week_killed": 95743
+			},
+			{
+				"race": "crypt shamblers",
+				"last_day_players_killed": 13,
+				"last_day_killed": 15808,
+				"last_week_players_killed": 50,
+				"last_week_killed": 74178
+			},
+			{
+				"race": "crypt wardens",
+				"last_day_players_killed": 0,
+				"last_day_killed": 360,
+				"last_week_players_killed": 7,
+				"last_week_killed": 980
+			},
+			{
+				"race": "crystal spiders",
+				"last_day_players_killed": 3,
+				"last_day_killed": 1055,
+				"last_week_players_killed": 9,
+				"last_week_killed": 3407
+			},
+			{
+				"race": "crystal wolves",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "crystalcrushers",
+				"last_day_players_killed": 3,
+				"last_day_killed": 1523,
+				"last_week_players_killed": 9,
+				"last_week_killed": 3192
+			},
+			{
+				"race": "cult believers",
+				"last_day_players_killed": 5,
+				"last_day_killed": 3748,
+				"last_week_players_killed": 33,
+				"last_week_killed": 12542
+			},
+			{
+				"race": "cult enforcers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 725,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2721
+			},
+			{
+				"race": "cult scholars",
+				"last_day_players_killed": 0,
+				"last_day_killed": 23,
+				"last_week_players_killed": 0,
+				"last_week_killed": 23
+			},
+			{
+				"race": "cursed apes",
+				"last_day_players_killed": 4,
+				"last_day_killed": 1450,
+				"last_week_players_killed": 15,
+				"last_week_killed": 4364
+			},
+			{
+				"race": "cyclopes",
+				"last_day_players_killed": 4,
+				"last_day_killed": 22824,
+				"last_week_players_killed": 73,
+				"last_week_killed": 98203
+			},
+			{
+				"race": "cyclopes drone",
+				"last_day_players_killed": 7,
+				"last_day_killed": 5728,
+				"last_week_players_killed": 20,
+				"last_week_killed": 21638
+			},
+			{
+				"race": "cyclopes smith",
+				"last_day_players_killed": 13,
+				"last_day_killed": 2955,
+				"last_week_players_killed": 74,
+				"last_week_killed": 11528
+			},
+			{
+				"race": "damaged worker golems",
+				"last_day_players_killed": 0,
+				"last_day_killed": 332,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1707
+			},
+			{
+				"race": "dark apprentices",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4543,
+				"last_week_players_killed": 0,
+				"last_week_killed": 19107
+			},
+			{
+				"race": "dark fauns",
+				"last_day_players_killed": 5,
+				"last_day_killed": 2096,
+				"last_week_players_killed": 27,
+				"last_week_killed": 5961
+			},
+			{
+				"race": "dark magicians",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3317,
+				"last_week_players_killed": 2,
+				"last_week_killed": 14484
+			},
+			{
+				"race": "dark monks",
+				"last_day_players_killed": 4,
+				"last_day_killed": 1823,
+				"last_week_players_killed": 6,
+				"last_week_killed": 4120
+			},
+			{
+				"race": "dawnfire asuras",
+				"last_day_players_killed": 1,
+				"last_day_killed": 13,
+				"last_week_players_killed": 1,
+				"last_week_killed": 13
+			},
+			{
+				"race": "death blobs",
+				"last_day_players_killed": 1,
+				"last_day_killed": 1091,
+				"last_week_players_killed": 2,
+				"last_week_killed": 2330
+			},
+			{
+				"race": "deepling guards",
+				"last_day_players_killed": 0,
+				"last_day_killed": 104,
+				"last_week_players_killed": 0,
+				"last_week_killed": 104
+			},
+			{
+				"race": "deepling master librarians",
+				"last_day_players_killed": 0,
+				"last_day_killed": 19,
+				"last_week_players_killed": 0,
+				"last_week_killed": 19
+			},
+			{
+				"race": "deepling scouts",
+				"last_day_players_killed": 1,
+				"last_day_killed": 137,
+				"last_week_players_killed": 7,
+				"last_week_killed": 804
+			},
+			{
+				"race": "deepling spellsingers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 246,
+				"last_week_players_killed": 0,
+				"last_week_killed": 246
+			},
+			{
+				"race": "deepling tyrants",
+				"last_day_players_killed": 0,
+				"last_day_killed": 6,
+				"last_week_players_killed": 0,
+				"last_week_killed": 6
+			},
+			{
+				"race": "deepling warriors",
+				"last_day_players_killed": 1,
+				"last_day_killed": 213,
+				"last_week_players_killed": 2,
+				"last_week_killed": 213
+			},
+			{
+				"race": "deer",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1220,
+				"last_week_players_killed": 0,
+				"last_week_killed": 8445
+			},
+			{
+				"race": "demon skeletons",
+				"last_day_players_killed": 19,
+				"last_day_killed": 13692,
+				"last_week_players_killed": 103,
+				"last_week_killed": 58726
+			},
+			{
+				"race": "desperate white deer",
+				"last_day_players_killed": 0,
+				"last_day_killed": 62,
+				"last_week_players_killed": 0,
+				"last_week_killed": 239
+			},
+			{
+				"race": "devourers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 6,
+				"last_week_players_killed": 1,
+				"last_week_killed": 17
+			},
+			{
+				"race": "diabolic imps",
+				"last_day_players_killed": 1,
+				"last_day_killed": 0,
+				"last_week_players_killed": 4,
+				"last_week_killed": 0
+			},
+			{
+				"race": "diamond servants",
+				"last_day_players_killed": 1,
+				"last_day_killed": 221,
+				"last_week_players_killed": 2,
+				"last_week_killed": 239
+			},
+			{
+				"race": "dire penguins",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "dogs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 330,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1548
+			},
+			{
+				"race": "domestikions",
+				"last_day_players_killed": 0,
+				"last_day_killed": 13,
+				"last_week_players_killed": 0,
+				"last_week_killed": 15
+			},
+			{
+				"race": "dragon hatchlings",
+				"last_day_players_killed": 1,
+				"last_day_killed": 859,
+				"last_week_players_killed": 3,
+				"last_week_killed": 2415
+			},
+			{
+				"race": "dragon lord hatchlings",
+				"last_day_players_killed": 0,
+				"last_day_killed": 881,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1550
+			},
+			{
+				"race": "dragon lords",
+				"last_day_players_killed": 11,
+				"last_day_killed": 3456,
+				"last_week_players_killed": 33,
+				"last_week_killed": 7087
+			},
+			{
+				"race": "dragons",
+				"last_day_players_killed": 15,
+				"last_day_killed": 9784,
+				"last_week_players_killed": 91,
+				"last_week_killed": 27307
+			},
+			{
+				"race": "dread intruders",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 0
+			},
+			{
+				"race": "drillworms",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 15
+			},
+			{
+				"race": "dromedaries",
+				"last_day_players_killed": 0,
+				"last_day_killed": 485,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2706
+			},
+			{
+				"race": "dwarf geomancers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11,
+				"last_week_players_killed": 0,
+				"last_week_killed": 47
+			},
+			{
+				"race": "dwarf guards",
+				"last_day_players_killed": 9,
+				"last_day_killed": 3960,
+				"last_week_players_killed": 63,
+				"last_week_killed": 14949
+			},
+			{
+				"race": "dwarf henchmen",
+				"last_day_players_killed": 0,
+				"last_day_killed": 220,
+				"last_week_players_killed": 0,
+				"last_week_killed": 336
+			},
+			{
+				"race": "dwarf miners",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 395
+			},
+			{
+				"race": "dwarf soldiers",
+				"last_day_players_killed": 2,
+				"last_day_killed": 10238,
+				"last_week_players_killed": 24,
+				"last_week_killed": 53692
+			},
+			{
+				"race": "dwarfs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 8408,
+				"last_week_players_killed": 2,
+				"last_week_killed": 52064
+			},
+			{
+				"race": "dworc fleshhunters",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3249,
+				"last_week_players_killed": 1,
+				"last_week_killed": 20631
+			},
+			{
+				"race": "dworc venomsnipers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3593,
+				"last_week_players_killed": 0,
+				"last_week_killed": 21012
+			},
+			{
+				"race": "dworc voodoomasters",
+				"last_day_players_killed": 0,
+				"last_day_killed": 956,
+				"last_week_players_killed": 1,
+				"last_week_killed": 6292
+			},
+			{
+				"race": "earth elementals",
+				"last_day_players_killed": 6,
+				"last_day_killed": 6185,
+				"last_week_players_killed": 35,
+				"last_week_killed": 22327
+			},
+			{
+				"race": "efreet",
+				"last_day_players_killed": 2,
+				"last_day_killed": 142,
+				"last_week_players_killed": 3,
+				"last_week_killed": 283
+			},
+			{
+				"race": "elder bonelords",
+				"last_day_players_killed": 1,
+				"last_day_killed": 838,
+				"last_week_players_killed": 14,
+				"last_week_killed": 1957
+			},
+			{
+				"race": "elder forest furies",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5,
+				"last_week_players_killed": 1,
+				"last_week_killed": 89
+			},
+			{
+				"race": "elder mummies",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3,
+				"last_week_players_killed": 2,
+				"last_week_killed": 33
+			},
+			{
+				"race": "elder wyrms",
+				"last_day_players_killed": 2,
+				"last_day_killed": 127,
+				"last_week_players_killed": 2,
+				"last_week_killed": 146
+			},
+			{
+				"race": "elephants",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1204,
+				"last_week_players_killed": 4,
+				"last_week_killed": 3207
+			},
+			{
+				"race": "elf arcanists",
+				"last_day_players_killed": 1,
+				"last_day_killed": 3481,
+				"last_week_players_killed": 8,
+				"last_week_killed": 12820
+			},
+			{
+				"race": "elf overseers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 3
+			},
+			{
+				"race": "elf scouts",
+				"last_day_players_killed": 1,
+				"last_day_killed": 5872,
+				"last_week_players_killed": 7,
+				"last_week_killed": 26944
+			},
+			{
+				"race": "elves",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3906,
+				"last_week_players_killed": 0,
+				"last_week_killed": 20760
+			},
+			{
+				"race": "emerald damselflies",
+				"last_day_players_killed": 0,
+				"last_day_killed": 6756,
+				"last_week_players_killed": 1,
+				"last_week_killed": 47786
+			},
+			{
+				"race": "energy elementals",
+				"last_day_players_killed": 4,
+				"last_day_killed": 1046,
+				"last_week_players_killed": 14,
+				"last_week_killed": 2840
+			},
+			{
+				"race": "enfeebled silencers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 280,
+				"last_week_players_killed": 2,
+				"last_week_killed": 876
+			},
+			{
+				"race": "enlighteneds of the cult",
+				"last_day_players_killed": 2,
+				"last_day_killed": 1162,
+				"last_week_players_killed": 6,
+				"last_week_killed": 3462
+			},
+			{
+				"race": "enraged bookworms",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3,
+				"last_week_players_killed": 0,
+				"last_week_killed": 3
+			},
+			{
+				"race": "enraged souls",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "enraged squirrels",
+				"last_day_players_killed": 0,
+				"last_day_killed": 135,
+				"last_week_players_killed": 0,
+				"last_week_killed": 347
+			},
+			{
+				"race": "enraged white deer",
+				"last_day_players_killed": 0,
+				"last_day_killed": 10,
+				"last_week_players_killed": 2,
+				"last_week_killed": 76
+			},
+			{
+				"race": "execowtioners",
+				"last_day_players_killed": 2,
+				"last_day_killed": 3,
+				"last_week_players_killed": 3,
+				"last_week_killed": 15
+			},
+			{
+				"race": "exotic bats",
+				"last_day_players_killed": 8,
+				"last_day_killed": 5316,
+				"last_week_players_killed": 36,
+				"last_week_killed": 15627
+			},
+			{
+				"race": "exotic cave spiders",
+				"last_day_players_killed": 1,
+				"last_day_killed": 1128,
+				"last_week_players_killed": 8,
+				"last_week_killed": 2026
+			},
+			{
+				"race": "fauns",
+				"last_day_players_killed": 1,
+				"last_day_killed": 2796,
+				"last_week_players_killed": 13,
+				"last_week_killed": 10824
+			},
+			{
+				"race": "feverish citizens",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 5,
+				"last_week_killed": 5327
+			},
+			{
+				"race": "filth toads",
+				"last_day_players_killed": 0,
+				"last_day_killed": 110,
+				"last_week_players_killed": 4,
+				"last_week_killed": 817
+			},
+			{
+				"race": "fire devils",
+				"last_day_players_killed": 0,
+				"last_day_killed": 182,
+				"last_week_players_killed": 5,
+				"last_week_killed": 1012
+			},
+			{
+				"race": "fire elementals",
+				"last_day_players_killed": 4,
+				"last_day_killed": 576,
+				"last_week_players_killed": 14,
+				"last_week_killed": 1669
+			},
+			{
+				"race": "firestarters",
+				"last_day_players_killed": 0,
+				"last_day_killed": 6158,
+				"last_week_players_killed": 2,
+				"last_week_killed": 20824
+			},
+			{
+				"race": "fish",
+				"last_day_players_killed": 0,
+				"last_day_killed": 33,
+				"last_week_players_killed": 0,
+				"last_week_killed": 98
+			},
+			{
+				"race": "flamingos",
+				"last_day_players_killed": 0,
+				"last_day_killed": 181,
+				"last_week_players_killed": 0,
+				"last_week_killed": 495
+			},
+			{
+				"race": "floating savants",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 2,
+				"last_week_killed": 1
+			},
+			{
+				"race": "forest furies",
+				"last_day_players_killed": 0,
+				"last_day_killed": 603,
+				"last_week_players_killed": 3,
+				"last_week_killed": 2236
+			},
+			{
+				"race": "foxes",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4693,
+				"last_week_players_killed": 0,
+				"last_week_killed": 12456
+			},
+			{
+				"race": "frost dragon hatchlings",
+				"last_day_players_killed": 0,
+				"last_day_killed": 531,
+				"last_week_players_killed": 1,
+				"last_week_killed": 2548
+			},
+			{
+				"race": "frost dragons",
+				"last_day_players_killed": 4,
+				"last_day_killed": 915,
+				"last_week_players_killed": 6,
+				"last_week_killed": 1726
+			},
+			{
+				"race": "frost flower asuras",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "frost giantesses",
+				"last_day_players_killed": 0,
+				"last_day_killed": 366,
+				"last_week_players_killed": 1,
+				"last_week_killed": 1476
+			},
+			{
+				"race": "frost giants",
+				"last_day_players_killed": 0,
+				"last_day_killed": 572,
+				"last_week_players_killed": 4,
+				"last_week_killed": 2381
+			},
+			{
+				"race": "frost trolls",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1076,
+				"last_week_players_killed": 0,
+				"last_week_killed": 4750
+			},
+			{
+				"race": "furies",
+				"last_day_players_killed": 2,
+				"last_day_killed": 729,
+				"last_week_players_killed": 21,
+				"last_week_killed": 1802
+			},
+			{
+				"race": "furious fire elementals",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "furious trolls",
+				"last_day_players_killed": 1,
+				"last_day_killed": 47,
+				"last_week_players_killed": 1,
+				"last_week_killed": 103
+			},
+			{
+				"race": "gang members",
+				"last_day_players_killed": 0,
+				"last_day_killed": 930,
+				"last_week_players_killed": 1,
+				"last_week_killed": 3783
+			},
+			{
+				"race": "gargoyles",
+				"last_day_players_killed": 2,
+				"last_day_killed": 27844,
+				"last_week_players_killed": 6,
+				"last_week_killed": 137397
+			},
+			{
+				"race": "gazer spectres",
+				"last_day_players_killed": 34,
+				"last_day_killed": 4200,
+				"last_week_players_killed": 85,
+				"last_week_killed": 10733
+			},
+			{
+				"race": "gazers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3494,
+				"last_week_players_killed": 1,
+				"last_week_killed": 12131
+			},
+			{
+				"race": "ghosts",
+				"last_day_players_killed": 2,
+				"last_day_killed": 9756,
+				"last_week_players_killed": 2,
+				"last_week_killed": 35986
+			},
+			{
+				"race": "ghoulish hyaenas",
+				"last_day_players_killed": 1,
+				"last_day_killed": 1930,
+				"last_week_players_killed": 2,
+				"last_week_killed": 6093
+			},
+			{
+				"race": "ghouls",
+				"last_day_players_killed": 1,
+				"last_day_killed": 42200,
+				"last_week_players_killed": 29,
+				"last_week_killed": 199256
+			},
+			{
+				"race": "giant spiders",
+				"last_day_players_killed": 4,
+				"last_day_killed": 900,
+				"last_week_players_killed": 52,
+				"last_week_killed": 3772
+			},
+			{
+				"race": "gladiators",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1575,
+				"last_week_players_killed": 2,
+				"last_week_killed": 3523
+			},
+			{
+				"race": "gloom wolves",
+				"last_day_players_killed": 0,
+				"last_day_killed": 518,
+				"last_week_players_killed": 0,
+				"last_week_killed": 639
+			},
+			{
+				"race": "glooth anemones",
+				"last_day_players_killed": 1,
+				"last_day_killed": 32,
+				"last_week_players_killed": 2,
+				"last_week_killed": 50
+			},
+			{
+				"race": "glooth bandits",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2271,
+				"last_week_players_killed": 0,
+				"last_week_killed": 4153
+			},
+			{
+				"race": "glooth blobs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 23,
+				"last_week_players_killed": 0,
+				"last_week_killed": 33
+			},
+			{
+				"race": "glooth brigands",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2295,
+				"last_week_players_killed": 3,
+				"last_week_killed": 4165
+			},
+			{
+				"race": "glooth golems",
+				"last_day_players_killed": 0,
+				"last_day_killed": 8,
+				"last_week_players_killed": 4,
+				"last_week_killed": 16
+			},
+			{
+				"race": "gnarlhounds",
+				"last_day_players_killed": 0,
+				"last_day_killed": 163,
+				"last_week_players_killed": 1,
+				"last_week_killed": 2441
+			},
+			{
+				"race": "goblin assassins",
+				"last_day_players_killed": 0,
+				"last_day_killed": 305,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2340
+			},
+			{
+				"race": "goblin leaders",
+				"last_day_players_killed": 0,
+				"last_day_killed": 35,
+				"last_week_players_killed": 0,
+				"last_week_killed": 94
+			},
+			{
+				"race": "goblin scavengers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 729,
+				"last_week_players_killed": 0,
+				"last_week_killed": 4939
+			},
+			{
+				"race": "goblins",
+				"last_day_players_killed": 1,
+				"last_day_killed": 3737,
+				"last_week_players_killed": 5,
+				"last_week_killed": 25453
+			},
+			{
+				"race": "golden servants",
+				"last_day_players_killed": 1,
+				"last_day_killed": 726,
+				"last_week_players_killed": 1,
+				"last_week_killed": 774
+			},
+			{
+				"race": "gozzlers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 247,
+				"last_week_players_killed": 2,
+				"last_week_killed": 1664
+			},
+			{
+				"race": "grave guards",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 11
+			},
+			{
+				"race": "grave robbers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 7
+			},
+			{
+				"race": "green djinns",
+				"last_day_players_killed": 0,
+				"last_day_killed": 395,
+				"last_week_players_killed": 1,
+				"last_week_killed": 815
+			},
+			{
+				"race": "green frogs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 191,
+				"last_week_players_killed": 0,
+				"last_week_killed": 872
+			},
+			{
+				"race": "grim reapers",
+				"last_day_players_killed": 17,
+				"last_day_killed": 4126,
+				"last_week_players_killed": 33,
+				"last_week_killed": 5718
+			},
+			{
+				"race": "haunted treelings",
+				"last_day_players_killed": 1,
+				"last_day_killed": 922,
+				"last_week_players_killed": 10,
+				"last_week_killed": 1530
+			},
+			{
+				"race": "hellfire fighters",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 0
+			},
+			{
+				"race": "hellspawns",
+				"last_day_players_killed": 2,
+				"last_day_killed": 80,
+				"last_week_players_killed": 3,
+				"last_week_killed": 252
+			},
+			{
+				"race": "heroes",
+				"last_day_players_killed": 11,
+				"last_day_killed": 4388,
+				"last_week_players_killed": 57,
+				"last_week_killed": 14395
+			},
+			{
+				"race": "hibernal moths",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 86
+			},
+			{
+				"race": "hideous fungi",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 2,
+				"last_week_killed": 4
+			},
+			{
+				"race": "hoodinions",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5
+			},
+			{
+				"race": "horses",
+				"last_day_players_killed": 0,
+				"last_day_killed": 228,
+				"last_week_players_killed": 0,
+				"last_week_killed": 595
+			},
+			{
+				"race": "humorless fungi",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "hunters",
+				"last_day_players_killed": 8,
+				"last_day_killed": 10920,
+				"last_week_players_killed": 48,
+				"last_week_killed": 48858
+			},
+			{
+				"race": "huskies",
+				"last_day_players_killed": 0,
+				"last_day_killed": 42,
+				"last_week_players_killed": 0,
+				"last_week_killed": 100
+			},
+			{
+				"race": "hyaenas",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1247,
+				"last_week_players_killed": 0,
+				"last_week_killed": 6383
+			},
+			{
+				"race": "hydras",
+				"last_day_players_killed": 0,
+				"last_day_killed": 424,
+				"last_week_players_killed": 1,
+				"last_week_killed": 533
+			},
+			{
+				"race": "ice golems",
+				"last_day_players_killed": 6,
+				"last_day_killed": 5051,
+				"last_week_players_killed": 46,
+				"last_week_killed": 23857
+			},
+			{
+				"race": "ice witches",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3,
+				"last_week_players_killed": 0,
+				"last_week_killed": 140
+			},
+			{
+				"race": "iks ahpututus",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5
+			},
+			{
+				"race": "iks aucars",
+				"last_day_players_killed": 9,
+				"last_day_killed": 4958,
+				"last_week_players_killed": 16,
+				"last_week_killed": 15124
+			},
+			{
+				"race": "iks chukas",
+				"last_day_players_killed": 4,
+				"last_day_killed": 4352,
+				"last_week_players_killed": 21,
+				"last_week_killed": 13077
+			},
+			{
+				"race": "iks churrascans",
+				"last_day_players_killed": 3,
+				"last_day_killed": 100,
+				"last_week_players_killed": 3,
+				"last_week_killed": 155
+			},
+			{
+				"race": "iks pututus",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3622,
+				"last_week_players_killed": 6,
+				"last_week_killed": 10917
+			},
+			{
+				"race": "infernalists",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 2,
+				"last_week_killed": 0
+			},
+			{
+				"race": "ink splashes",
+				"last_day_players_killed": 2,
+				"last_day_killed": 0,
+				"last_week_players_killed": 8,
+				"last_week_killed": 2
+			},
+			{
+				"race": "insect swarms",
+				"last_day_players_killed": 0,
+				"last_day_killed": 50,
+				"last_week_players_killed": 0,
+				"last_week_killed": 199
+			},
+			{
+				"race": "insectoid workers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 706,
+				"last_week_players_killed": 1,
+				"last_week_killed": 2911
+			},
+			{
+				"race": "instable breach broods",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 4,
+				"last_week_killed": 0
+			},
+			{
+				"race": "iron servant replicas",
+				"last_day_players_killed": 1,
+				"last_day_killed": 5,
+				"last_week_players_killed": 1,
+				"last_week_killed": 5
+			},
+			{
+				"race": "iron servants",
+				"last_day_players_killed": 0,
+				"last_day_killed": 904,
+				"last_week_players_killed": 1,
+				"last_week_killed": 972
+			},
+			{
+				"race": "island trolls",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1814,
+				"last_week_players_killed": 0,
+				"last_week_killed": 6804
+			},
+			{
+				"race": "jellyfish",
+				"last_day_players_killed": 0,
+				"last_day_killed": 43,
+				"last_week_players_killed": 0,
+				"last_week_killed": 73
+			},
+			{
+				"race": "killer caimans",
+				"last_day_players_killed": 6,
+				"last_day_killed": 3382,
+				"last_week_players_killed": 13,
+				"last_week_killed": 8584
+			},
+			{
+				"race": "kongras",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3729,
+				"last_week_players_killed": 1,
+				"last_week_killed": 12923
+			},
+			{
+				"race": "lamassus",
+				"last_day_players_killed": 14,
+				"last_day_killed": 952,
+				"last_week_players_killed": 41,
+				"last_week_killed": 1964
+			},
+			{
+				"race": "lancer beetles",
+				"last_day_players_killed": 0,
+				"last_day_killed": 401,
+				"last_week_players_killed": 0,
+				"last_week_killed": 460
+			},
+			{
+				"race": "larvas",
+				"last_day_players_killed": 2,
+				"last_day_killed": 45451,
+				"last_week_players_killed": 25,
+				"last_week_killed": 244622
+			},
+			{
+				"race": "lava lurker attendants",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "leaf golems",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1264,
+				"last_week_players_killed": 0,
+				"last_week_killed": 9036
+			},
+			{
+				"race": "lesser swarmers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 84,
+				"last_week_players_killed": 0,
+				"last_week_killed": 251
+			},
+			{
+				"race": "liches",
+				"last_day_players_killed": 5,
+				"last_day_killed": 566,
+				"last_week_players_killed": 16,
+				"last_week_killed": 1422
+			},
+			{
+				"race": "lions",
+				"last_day_players_killed": 0,
+				"last_day_killed": 697,
+				"last_week_players_killed": 1,
+				"last_week_killed": 3186
+			},
+			{
+				"race": "little corym charlatans",
+				"last_day_players_killed": 0,
+				"last_day_killed": 80,
+				"last_week_players_killed": 0,
+				"last_week_killed": 684
+			},
+			{
+				"race": "lizard chosens",
+				"last_day_players_killed": 0,
+				"last_day_killed": 867,
+				"last_week_players_killed": 12,
+				"last_week_killed": 7720
+			},
+			{
+				"race": "lizard dragon priests",
+				"last_day_players_killed": 0,
+				"last_day_killed": 37,
+				"last_week_players_killed": 2,
+				"last_week_killed": 99
+			},
+			{
+				"race": "lizard high guards",
+				"last_day_players_killed": 2,
+				"last_day_killed": 158,
+				"last_week_players_killed": 3,
+				"last_week_killed": 405
+			},
+			{
+				"race": "lizard legionnaires",
+				"last_day_players_killed": 0,
+				"last_day_killed": 115,
+				"last_week_players_killed": 2,
+				"last_week_killed": 336
+			},
+			{
+				"race": "lizard sentinels",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3236,
+				"last_week_players_killed": 13,
+				"last_week_killed": 14538
+			},
+			{
+				"race": "lizard snakecharmers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1011,
+				"last_week_players_killed": 3,
+				"last_week_killed": 4127
+			},
+			{
+				"race": "lizard templars",
+				"last_day_players_killed": 1,
+				"last_day_killed": 2846,
+				"last_week_players_killed": 2,
+				"last_week_killed": 11994
+			},
+			{
+				"race": "lizard zaoguns",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 4,
+				"last_week_killed": 8
+			},
+			{
+				"race": "lost bashers",
+				"last_day_players_killed": 1,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 0
+			},
+			{
+				"race": "mad scientists",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1125,
+				"last_week_players_killed": 0,
+				"last_week_killed": 4170
+			},
+			{
+				"race": "mammoths",
+				"last_day_players_killed": 1,
+				"last_day_killed": 11709,
+				"last_week_players_killed": 26,
+				"last_week_killed": 42315
+			},
+			{
+				"race": "manticores",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "marid",
+				"last_day_players_killed": 3,
+				"last_day_killed": 129,
+				"last_week_players_killed": 6,
+				"last_week_killed": 228
+			},
+			{
+				"race": "marsh stalkers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4756,
+				"last_week_players_killed": 0,
+				"last_week_killed": 36488
+			},
+			{
+				"race": "massive earth elementals",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5
+			},
+			{
+				"race": "mearidions",
+				"last_day_players_killed": 1,
+				"last_day_killed": 19,
+				"last_week_players_killed": 1,
+				"last_week_killed": 20
+			},
+			{
+				"race": "mechanical fighters",
+				"last_day_players_killed": 0,
+				"last_day_killed": 68,
+				"last_week_players_killed": 0,
+				"last_week_killed": 126
+			},
+			{
+				"race": "medusae",
+				"last_day_players_killed": 0,
+				"last_day_killed": 16,
+				"last_week_players_killed": 0,
+				"last_week_killed": 27
+			},
+			{
+				"race": "memories of a carnisylvan",
+				"last_day_players_killed": 0,
+				"last_day_killed": 8,
+				"last_week_players_killed": 2,
+				"last_week_killed": 28
+			},
+			{
+				"race": "mercury blobs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4179,
+				"last_week_players_killed": 3,
+				"last_week_killed": 17381
+			},
+			{
+				"race": "merlkins",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1402,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5600
+			},
+			{
+				"race": "metal gargoyles",
+				"last_day_players_killed": 5,
+				"last_day_killed": 8,
+				"last_week_players_killed": 13,
+				"last_week_killed": 8
+			},
+			{
+				"race": "midnight asuras",
+				"last_day_players_killed": 0,
+				"last_day_killed": 10,
+				"last_week_players_killed": 0,
+				"last_week_killed": 10
+			},
+			{
+				"race": "midnight panthers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 2
+			},
+			{
+				"race": "minotaur amazons",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 1,
+				"last_week_killed": 14
+			},
+			{
+				"race": "minotaur archers",
+				"last_day_players_killed": 5,
+				"last_day_killed": 6419,
+				"last_week_players_killed": 47,
+				"last_week_killed": 27547
+			},
+			{
+				"race": "minotaur cult followers",
+				"last_day_players_killed": 1,
+				"last_day_killed": 302,
+				"last_week_players_killed": 4,
+				"last_week_killed": 413
+			},
+			{
+				"race": "minotaur cult prophets",
+				"last_day_players_killed": 2,
+				"last_day_killed": 12,
+				"last_week_players_killed": 3,
+				"last_week_killed": 12
+			},
+			{
+				"race": "minotaur cult zealots",
+				"last_day_players_killed": 0,
+				"last_day_killed": 18,
+				"last_week_players_killed": 1,
+				"last_week_killed": 28
+			},
+			{
+				"race": "minotaur guards",
+				"last_day_players_killed": 7,
+				"last_day_killed": 10311,
+				"last_week_players_killed": 74,
+				"last_week_killed": 41002
+			},
+			{
+				"race": "minotaur hunters",
+				"last_day_players_killed": 2,
+				"last_day_killed": 817,
+				"last_week_players_killed": 3,
+				"last_week_killed": 2067
+			},
+			{
+				"race": "minotaur mages",
+				"last_day_players_killed": 6,
+				"last_day_killed": 3716,
+				"last_week_players_killed": 36,
+				"last_week_killed": 15146
+			},
+			{
+				"race": "minotaurs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 15528,
+				"last_week_players_killed": 42,
+				"last_week_killed": 78180
+			},
+			{
+				"race": "monks",
+				"last_day_players_killed": 0,
+				"last_day_killed": 237,
+				"last_week_players_killed": 1,
+				"last_week_killed": 561
+			},
+			{
+				"race": "mooh'tah warriors",
+				"last_day_players_killed": 2,
+				"last_day_killed": 656,
+				"last_week_players_killed": 4,
+				"last_week_killed": 1638
+			},
+			{
+				"race": "moohtants",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 14
+			},
+			{
+				"race": "muglex clan assassins",
+				"last_day_players_killed": 2,
+				"last_day_killed": 7365,
+				"last_week_players_killed": 7,
+				"last_week_killed": 57284
+			},
+			{
+				"race": "muglex clan feetman",
+				"last_day_players_killed": 2,
+				"last_day_killed": 11561,
+				"last_week_players_killed": 10,
+				"last_week_killed": 90272
+			},
+			{
+				"race": "mummies",
+				"last_day_players_killed": 4,
+				"last_day_killed": 28034,
+				"last_week_players_killed": 63,
+				"last_week_killed": 127104
+			},
+			{
+				"race": "murmillions",
+				"last_day_players_killed": 0,
+				"last_day_killed": 22,
+				"last_week_players_killed": 0,
+				"last_week_killed": 22
+			},
+			{
+				"race": "mutated bats",
+				"last_day_players_killed": 1,
+				"last_day_killed": 2478,
+				"last_week_players_killed": 5,
+				"last_week_killed": 3407
+			},
+			{
+				"race": "mutated humans",
+				"last_day_players_killed": 5,
+				"last_day_killed": 15153,
+				"last_week_players_killed": 30,
+				"last_week_killed": 65203
+			},
+			{
+				"race": "mutated rats",
+				"last_day_players_killed": 2,
+				"last_day_killed": 4792,
+				"last_week_players_killed": 22,
+				"last_week_killed": 13363
+			},
+			{
+				"race": "mutated tigers",
+				"last_day_players_killed": 10,
+				"last_day_killed": 10359,
+				"last_week_players_killed": 16,
+				"last_week_killed": 12521
+			},
+			{
+				"race": "necromancers",
+				"last_day_players_killed": 3,
+				"last_day_killed": 5789,
+				"last_week_players_killed": 33,
+				"last_week_killed": 23135
+			},
+			{
+				"race": "nightfiends",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 12
+			},
+			{
+				"race": "nightmare scions",
+				"last_day_players_killed": 4,
+				"last_day_killed": 6919,
+				"last_week_players_killed": 28,
+				"last_week_killed": 23192
+			},
+			{
+				"race": "nightmares",
+				"last_day_players_killed": 6,
+				"last_day_killed": 749,
+				"last_week_players_killed": 10,
+				"last_week_killed": 1108
+			},
+			{
+				"race": "nightstalkers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 137,
+				"last_week_players_killed": 1,
+				"last_week_killed": 384
+			},
+			{
+				"race": "noble lions",
+				"last_day_players_killed": 0,
+				"last_day_killed": 106,
+				"last_week_players_killed": 1,
+				"last_week_killed": 778
+			},
+			{
+				"race": "nomads",
+				"last_day_players_killed": 0,
+				"last_day_killed": 12425,
+				"last_week_players_killed": 12,
+				"last_week_killed": 46563
+			},
+			{
+				"race": "northern pikes",
+				"last_day_players_killed": 0,
+				"last_day_killed": 13,
+				"last_week_players_killed": 0,
+				"last_week_killed": 16
+			},
+			{
+				"race": "novices of the cult",
+				"last_day_players_killed": 5,
+				"last_day_killed": 3973,
+				"last_week_players_killed": 8,
+				"last_week_killed": 12930
+			},
+			{
+				"race": "nymphs",
+				"last_day_players_killed": 8,
+				"last_day_killed": 6012,
+				"last_week_players_killed": 34,
+				"last_week_killed": 20696
+			},
+			{
+				"race": "ogre brutes",
+				"last_day_players_killed": 10,
+				"last_day_killed": 53,
+				"last_week_players_killed": 31,
+				"last_week_killed": 316
+			},
+			{
+				"race": "ogre savages",
+				"last_day_players_killed": 2,
+				"last_day_killed": 21,
+				"last_week_players_killed": 11,
+				"last_week_killed": 143
+			},
+			{
+				"race": "ogre shamans",
+				"last_day_players_killed": 0,
+				"last_day_killed": 35,
+				"last_week_players_killed": 1,
+				"last_week_killed": 195
+			},
+			{
+				"race": "omnivoras",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 1
+			},
+			{
+				"race": "orc berserkers",
+				"last_day_players_killed": 11,
+				"last_day_killed": 2225,
+				"last_week_players_killed": 61,
+				"last_week_killed": 6949
+			},
+			{
+				"race": "orc cult inquisitors",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 2,
+				"last_week_killed": 0
+			},
+			{
+				"race": "orc cult minions",
+				"last_day_players_killed": 2,
+				"last_day_killed": 0,
+				"last_week_players_killed": 6,
+				"last_week_killed": 0
+			},
+			{
+				"race": "orc leaders",
+				"last_day_players_killed": 2,
+				"last_day_killed": 733,
+				"last_week_players_killed": 7,
+				"last_week_killed": 2097
+			},
+			{
+				"race": "orc marauders",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 7
+			},
+			{
+				"race": "orc riders",
+				"last_day_players_killed": 0,
+				"last_day_killed": 144,
+				"last_week_players_killed": 0,
+				"last_week_killed": 354
+			},
+			{
+				"race": "orc shamans",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1263,
+				"last_week_players_killed": 0,
+				"last_week_killed": 4684
+			},
+			{
+				"race": "orc spearmen",
+				"last_day_players_killed": 1,
+				"last_day_killed": 3968,
+				"last_week_players_killed": 1,
+				"last_week_killed": 25802
+			},
+			{
+				"race": "orc warlords",
+				"last_day_players_killed": 3,
+				"last_day_killed": 278,
+				"last_week_players_killed": 6,
+				"last_week_killed": 671
+			},
+			{
+				"race": "orc warriors",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5350,
+				"last_week_players_killed": 12,
+				"last_week_killed": 29474
+			},
+			{
+				"race": "orchid frogs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 372,
+				"last_week_players_killed": 0,
+				"last_week_killed": 714
+			},
+			{
+				"race": "orclops doomhaulers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 82,
+				"last_week_players_killed": 1,
+				"last_week_killed": 89
+			},
+			{
+				"race": "orclops ravagers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 55,
+				"last_week_players_killed": 0,
+				"last_week_killed": 59
+			},
+			{
+				"race": "orcs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2822,
+				"last_week_players_killed": 28,
+				"last_week_killed": 26446
+			},
+			{
+				"race": "pandas",
+				"last_day_players_killed": 0,
+				"last_day_killed": 205,
+				"last_week_players_killed": 0,
+				"last_week_killed": 802
+			},
+			{
+				"race": "parrots",
+				"last_day_players_killed": 0,
+				"last_day_killed": 16,
+				"last_week_players_killed": 0,
+				"last_week_killed": 45
+			},
+			{
+				"race": "party skeletons",
+				"last_day_players_killed": 0,
+				"last_day_killed": 17,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2449
+			},
+			{
+				"race": "penguins",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1999,
+				"last_week_players_killed": 0,
+				"last_week_killed": 7882
+			},
+			{
+				"race": "pigeons",
+				"last_day_players_killed": 0,
+				"last_day_killed": 329,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1795
+			},
+			{
+				"race": "pigs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 52,
+				"last_week_players_killed": 0,
+				"last_week_killed": 447
+			},
+			{
+				"race": "pirat bombardiers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 61,
+				"last_week_players_killed": 7,
+				"last_week_killed": 813
+			},
+			{
+				"race": "pirat cutthroats",
+				"last_day_players_killed": 1,
+				"last_day_killed": 80,
+				"last_week_players_killed": 23,
+				"last_week_killed": 1580
+			},
+			{
+				"race": "pirat mates",
+				"last_day_players_killed": 0,
+				"last_day_killed": 45,
+				"last_week_players_killed": 23,
+				"last_week_killed": 511
+			},
+			{
+				"race": "pirat scoundrels",
+				"last_day_players_killed": 0,
+				"last_day_killed": 73,
+				"last_week_players_killed": 10,
+				"last_week_killed": 856
+			},
+			{
+				"race": "pirate buccaneers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 454,
+				"last_week_players_killed": 14,
+				"last_week_killed": 1263
+			},
+			{
+				"race": "pirate corsairs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 53,
+				"last_week_players_killed": 0,
+				"last_week_killed": 125
+			},
+			{
+				"race": "pirate cutthroats",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1744,
+				"last_week_players_killed": 15,
+				"last_week_killed": 5082
+			},
+			{
+				"race": "pirate ghosts",
+				"last_day_players_killed": 0,
+				"last_day_killed": 19,
+				"last_week_players_killed": 0,
+				"last_week_killed": 36
+			},
+			{
+				"race": "pirate marauders",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3206,
+				"last_week_players_killed": 9,
+				"last_week_killed": 8875
+			},
+			{
+				"race": "pirate skeletons",
+				"last_day_players_killed": 0,
+				"last_day_killed": 139,
+				"last_week_players_killed": 0,
+				"last_week_killed": 294
+			},
+			{
+				"race": "pixies",
+				"last_day_players_killed": 2,
+				"last_day_killed": 6021,
+				"last_week_players_killed": 4,
+				"last_week_killed": 19604
+			},
+			{
+				"race": "players",
+				"last_day_players_killed": 75,
+				"last_day_killed": 75,
+				"last_week_players_killed": 323,
+				"last_week_killed": 323
+			},
+			{
+				"race": "poachers",
+				"last_day_players_killed": 3,
+				"last_day_killed": 10165,
+				"last_week_players_killed": 8,
+				"last_week_killed": 45464
+			},
+			{
+				"race": "poison spiders",
+				"last_day_players_killed": 0,
+				"last_day_killed": 18396,
+				"last_week_players_killed": 21,
+				"last_week_killed": 92492
+			},
+			{
+				"race": "polar bears",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1516,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5640
+			},
+			{
+				"race": "pookas",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2461,
+				"last_week_players_killed": 0,
+				"last_week_killed": 8159
+			},
+			{
+				"race": "priestesses",
+				"last_day_players_killed": 0,
+				"last_day_killed": 88,
+				"last_week_players_killed": 0,
+				"last_week_killed": 629
+			},
+			{
+				"race": "priestesses of the wild sun",
+				"last_day_players_killed": 26,
+				"last_day_killed": 225,
+				"last_week_players_killed": 299,
+				"last_week_killed": 1021
+			},
+			{
+				"race": "putrid mummies",
+				"last_day_players_killed": 1,
+				"last_day_killed": 364,
+				"last_week_players_killed": 11,
+				"last_week_killed": 3920
+			},
+			{
+				"race": "quara constrictor scouts",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1247,
+				"last_week_players_killed": 3,
+				"last_week_killed": 3573
+			},
+			{
+				"race": "quara constrictors",
+				"last_day_players_killed": 0,
+				"last_day_killed": 838,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1810
+			},
+			{
+				"race": "quara hydromancer scouts",
+				"last_day_players_killed": 3,
+				"last_day_killed": 1199,
+				"last_week_players_killed": 7,
+				"last_week_killed": 3278
+			},
+			{
+				"race": "quara hydromancers",
+				"last_day_players_killed": 1,
+				"last_day_killed": 297,
+				"last_week_players_killed": 1,
+				"last_week_killed": 592
+			},
+			{
+				"race": "quara mantassin scouts",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3917,
+				"last_week_players_killed": 1,
+				"last_week_killed": 10260
+			},
+			{
+				"race": "quara mantassins",
+				"last_day_players_killed": 0,
+				"last_day_killed": 606,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1264
+			},
+			{
+				"race": "quara pincher scouts",
+				"last_day_players_killed": 5,
+				"last_day_killed": 2062,
+				"last_week_players_killed": 9,
+				"last_week_killed": 5672
+			},
+			{
+				"race": "quara pinchers",
+				"last_day_players_killed": 1,
+				"last_day_killed": 576,
+				"last_week_players_killed": 1,
+				"last_week_killed": 1263
+			},
+			{
+				"race": "quara predator scouts",
+				"last_day_players_killed": 1,
+				"last_day_killed": 1084,
+				"last_week_players_killed": 4,
+				"last_week_killed": 3019
+			},
+			{
+				"race": "quara predators",
+				"last_day_players_killed": 0,
+				"last_day_killed": 458,
+				"last_week_players_killed": 0,
+				"last_week_killed": 886
+			},
+			{
+				"race": "rabbits",
+				"last_day_players_killed": 0,
+				"last_day_killed": 981,
+				"last_week_players_killed": 0,
+				"last_week_killed": 6781
+			},
+			{
+				"race": "rabid wolves",
+				"last_day_players_killed": 2,
+				"last_day_killed": 1555,
+				"last_week_players_killed": 17,
+				"last_week_killed": 13320
+			},
+			{
+				"race": "ragged rabid wolves",
+				"last_day_players_killed": 1,
+				"last_day_killed": 403,
+				"last_week_players_killed": 5,
+				"last_week_killed": 3421
+			},
+			{
+				"race": "rats",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3083,
+				"last_week_players_killed": 12,
+				"last_week_killed": 45930
+			},
+			{
+				"race": "ravenous lava lurkers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1020,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1020
+			},
+			{
+				"race": "reality reaver",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 0
+			},
+			{
+				"race": "renegade knights",
+				"last_day_players_killed": 6,
+				"last_day_killed": 5094,
+				"last_week_players_killed": 28,
+				"last_week_killed": 15432
+			},
+			{
+				"race": "ripper spectres",
+				"last_day_players_killed": 7,
+				"last_day_killed": 1179,
+				"last_week_players_killed": 22,
+				"last_week_killed": 1847
+			},
+			{
+				"race": "roaring lions",
+				"last_day_players_killed": 7,
+				"last_day_killed": 5736,
+				"last_week_players_killed": 18,
+				"last_week_killed": 24238
+			},
+			{
+				"race": "rorcs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 212,
+				"last_week_players_killed": 4,
+				"last_week_killed": 1972
+			},
+			{
+				"race": "rotworms",
+				"last_day_players_killed": 4,
+				"last_day_killed": 35628,
+				"last_week_players_killed": 42,
+				"last_week_killed": 240613
+			},
+			{
+				"race": "rustheap golems",
+				"last_day_players_killed": 1,
+				"last_day_killed": 2,
+				"last_week_players_killed": 6,
+				"last_week_killed": 2
+			},
+			{
+				"race": "sacred spiders",
+				"last_day_players_killed": 2,
+				"last_day_killed": 566,
+				"last_week_players_killed": 5,
+				"last_week_killed": 1692
+			},
+			{
+				"race": "salamanders",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3476,
+				"last_week_players_killed": 0,
+				"last_week_killed": 27202
+			},
+			{
+				"race": "sandcrawlers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1503,
+				"last_week_players_killed": 0,
+				"last_week_killed": 6895
+			},
+			{
+				"race": "sandstone scorpions",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 18
+			},
+			{
+				"race": "scarabs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11912,
+				"last_week_players_killed": 25,
+				"last_week_killed": 48354
+			},
+			{
+				"race": "scissorions",
+				"last_day_players_killed": 1,
+				"last_day_killed": 22,
+				"last_week_players_killed": 1,
+				"last_week_killed": 22
+			},
+			{
+				"race": "scorpions",
+				"last_day_players_killed": 1,
+				"last_day_killed": 6802,
+				"last_week_players_killed": 4,
+				"last_week_killed": 26930
+			},
+			{
+				"race": "sea serpents",
+				"last_day_players_killed": 0,
+				"last_day_killed": 345,
+				"last_week_players_killed": 0,
+				"last_week_killed": 345
+			},
+			{
+				"race": "seagulls",
+				"last_day_players_killed": 0,
+				"last_day_killed": 99,
+				"last_week_players_killed": 0,
+				"last_week_killed": 293
+			},
+			{
+				"race": "serpent spawns",
+				"last_day_players_killed": 1,
+				"last_day_killed": 12,
+				"last_week_players_killed": 10,
+				"last_week_killed": 13
+			},
+			{
+				"race": "shadow pupils",
+				"last_day_players_killed": 0,
+				"last_day_killed": 12,
+				"last_week_players_killed": 0,
+				"last_week_killed": 397
+			},
+			{
+				"race": "sharks",
+				"last_day_players_killed": 0,
+				"last_day_killed": 12,
+				"last_week_players_killed": 0,
+				"last_week_killed": 12
+			},
+			{
+				"race": "sheep",
+				"last_day_players_killed": 0,
+				"last_day_killed": 107,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1063
+			},
+			{
+				"race": "sibangs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3929,
+				"last_week_players_killed": 1,
+				"last_week_killed": 13820
+			},
+			{
+				"race": "silver rabbits",
+				"last_day_players_killed": 0,
+				"last_day_killed": 719,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2805
+			},
+			{
+				"race": "skeleton elite warriors",
+				"last_day_players_killed": 0,
+				"last_day_killed": 146,
+				"last_week_players_killed": 0,
+				"last_week_killed": 653
+			},
+			{
+				"race": "skeleton warriors",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2587,
+				"last_week_players_killed": 1,
+				"last_week_killed": 12063
+			},
+			{
+				"race": "skeletons",
+				"last_day_players_killed": 0,
+				"last_day_killed": 27220,
+				"last_week_players_killed": 13,
+				"last_week_killed": 144330
+			},
+			{
+				"race": "skunks",
+				"last_day_players_killed": 0,
+				"last_day_killed": 782,
+				"last_week_players_killed": 0,
+				"last_week_killed": 3145
+			},
+			{
+				"race": "slimes",
+				"last_day_players_killed": 3,
+				"last_day_killed": 7095,
+				"last_week_players_killed": 62,
+				"last_week_killed": 39662
+			},
+			{
+				"race": "slugs",
+				"last_day_players_killed": 0,
+				"last_day_killed": 350,
+				"last_week_players_killed": 1,
+				"last_week_killed": 1291
+			},
+			{
+				"race": "smugglers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 8002,
+				"last_week_players_killed": 2,
+				"last_week_killed": 37356
+			},
+			{
+				"race": "snakes",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7722,
+				"last_week_players_killed": 0,
+				"last_week_killed": 55711
+			},
+			{
+				"race": "soul-broken harbingers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1
+			},
+			{
+				"race": "sparkions",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 1,
+				"last_week_killed": 0
+			},
+			{
+				"race": "sphinxes",
+				"last_day_players_killed": 12,
+				"last_day_killed": 1835,
+				"last_week_players_killed": 96,
+				"last_week_killed": 4449
+			},
+			{
+				"race": "spiders",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3983,
+				"last_week_players_killed": 11,
+				"last_week_killed": 40645
+			},
+			{
+				"race": "spit nettles",
+				"last_day_players_killed": 0,
+				"last_day_killed": 456,
+				"last_week_players_killed": 1,
+				"last_week_killed": 1401
+			},
+			{
+				"race": "spitters",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "spyrats",
+				"last_day_players_killed": 1,
+				"last_day_killed": 829,
+				"last_week_players_killed": 12,
+				"last_week_killed": 2251
+			},
+			{
+				"race": "squidgy slimes",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1145,
+				"last_week_players_killed": 2,
+				"last_week_killed": 4370
+			},
+			{
+				"race": "squirrels",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1030,
+				"last_week_players_killed": 0,
+				"last_week_killed": 3971
+			},
+			{
+				"race": "stabilizing reality reavers",
+				"last_day_players_killed": 1,
+				"last_day_killed": 0,
+				"last_week_players_killed": 2,
+				"last_week_killed": 0
+			},
+			{
+				"race": "stalkers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5916,
+				"last_week_players_killed": 10,
+				"last_week_killed": 19014
+			},
+			{
+				"race": "stone golems",
+				"last_day_players_killed": 0,
+				"last_day_killed": 6523,
+				"last_week_players_killed": 9,
+				"last_week_killed": 28251
+			},
+			{
+				"race": "stonerefiners",
+				"last_day_players_killed": 8,
+				"last_day_killed": 8095,
+				"last_week_players_killed": 51,
+				"last_week_killed": 38090
+			},
+			{
+				"race": "strange slimes",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 0,
+				"last_week_killed": 3
+			},
+			{
+				"race": "swamp trolls",
+				"last_day_players_killed": 0,
+				"last_day_killed": 14280,
+				"last_week_players_killed": 3,
+				"last_week_killed": 94785
+			},
+			{
+				"race": "swamplings",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3852,
+				"last_week_players_killed": 0,
+				"last_week_killed": 22771
+			},
+			{
+				"race": "swan maidens",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1748,
+				"last_week_players_killed": 2,
+				"last_week_killed": 6110
+			},
+			{
+				"race": "swarmers",
+				"last_day_players_killed": 2,
+				"last_day_killed": 1042,
+				"last_week_players_killed": 11,
+				"last_week_killed": 4126
+			},
+			{
+				"race": "tainted souls",
+				"last_day_players_killed": 0,
+				"last_day_killed": 59,
+				"last_week_players_killed": 2,
+				"last_week_killed": 124
+			},
+			{
+				"race": "tame terror birds",
+				"last_day_players_killed": 0,
+				"last_day_killed": 45,
+				"last_week_players_killed": 0,
+				"last_week_killed": 168
+			},
+			{
+				"race": "tarantulas",
+				"last_day_players_killed": 3,
+				"last_day_killed": 38242,
+				"last_week_players_killed": 63,
+				"last_week_killed": 157195
+			},
+			{
+				"race": "tarnished spirits",
+				"last_day_players_killed": 0,
+				"last_day_killed": 36,
+				"last_week_players_killed": 0,
+				"last_week_killed": 219
+			},
+			{
+				"race": "terramites",
+				"last_day_players_killed": 10,
+				"last_day_killed": 8848,
+				"last_week_players_killed": 49,
+				"last_week_killed": 43007
+			},
+			{
+				"race": "terror birds",
+				"last_day_players_killed": 3,
+				"last_day_killed": 570,
+				"last_week_players_killed": 15,
+				"last_week_killed": 3091
+			},
+			{
+				"race": "thanatursuses",
+				"last_day_players_killed": 1,
+				"last_day_killed": 94,
+				"last_week_players_killed": 5,
+				"last_week_killed": 165
+			},
+			{
+				"race": "thieves",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 34
+			},
+			{
+				"race": "thieving squirrels",
+				"last_day_players_killed": 0,
+				"last_day_killed": 30,
+				"last_week_players_killed": 0,
+				"last_week_killed": 80
+			},
+			{
+				"race": "thornback tortoises",
+				"last_day_players_killed": 0,
+				"last_day_killed": 8857,
+				"last_week_players_killed": 0,
+				"last_week_killed": 37879
+			},
+			{
+				"race": "thornfire wolves",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2
+			},
+			{
+				"race": "tigers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 522,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2034
+			},
+			{
+				"race": "toads",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3208,
+				"last_week_players_killed": 0,
+				"last_week_killed": 8527
+			},
+			{
+				"race": "tomb servants",
+				"last_day_players_killed": 2,
+				"last_day_killed": 2111,
+				"last_week_players_killed": 3,
+				"last_week_killed": 6030
+			},
+			{
+				"race": "tormented ghosts",
+				"last_day_players_killed": 0,
+				"last_day_killed": 67,
+				"last_week_players_killed": 1,
+				"last_week_killed": 96
+			},
+			{
+				"race": "tortoises",
+				"last_day_players_killed": 0,
+				"last_day_killed": 13261,
+				"last_week_players_killed": 5,
+				"last_week_killed": 48558
+			},
+			{
+				"race": "troll champions",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1329,
+				"last_week_players_killed": 4,
+				"last_week_killed": 11691
+			},
+			{
+				"race": "troll guards",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5,
+				"last_week_players_killed": 0,
+				"last_week_killed": 182
+			},
+			{
+				"race": "troll legionnaires",
+				"last_day_players_killed": 0,
+				"last_day_killed": 40,
+				"last_week_players_killed": 0,
+				"last_week_killed": 112
+			},
+			{
+				"race": "trolls",
+				"last_day_players_killed": 1,
+				"last_day_killed": 6783,
+				"last_week_players_killed": 12,
+				"last_week_killed": 68736
+			},
+			{
+				"race": "twisted pookas",
+				"last_day_players_killed": 0,
+				"last_day_killed": 2009,
+				"last_week_players_killed": 5,
+				"last_week_killed": 5828
+			},
+			{
+				"race": "twisted shapers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3,
+				"last_week_players_killed": 0,
+				"last_week_killed": 3
+			},
+			{
+				"race": "undead cavebears",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5,
+				"last_week_players_killed": 0,
+				"last_week_killed": 5
+			},
+			{
+				"race": "undead gladiators",
+				"last_day_players_killed": 6,
+				"last_day_killed": 7218,
+				"last_week_players_killed": 18,
+				"last_week_killed": 22061
+			},
+			{
+				"race": "undead mine workers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 176,
+				"last_week_players_killed": 0,
+				"last_week_killed": 777
+			},
+			{
+				"race": "undead prospectors",
+				"last_day_players_killed": 0,
+				"last_day_killed": 85,
+				"last_week_players_killed": 0,
+				"last_week_killed": 339
+			},
+			{
+				"race": "valkyries",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7168,
+				"last_week_players_killed": 12,
+				"last_week_killed": 33994
+			},
+			{
+				"race": "vampire brides",
+				"last_day_players_killed": 0,
+				"last_day_killed": 1101,
+				"last_week_players_killed": 8,
+				"last_week_killed": 4300
+			},
+			{
+				"race": "vampire viscounts",
+				"last_day_players_killed": 3,
+				"last_day_killed": 997,
+				"last_week_players_killed": 18,
+				"last_week_killed": 3899
+			},
+			{
+				"race": "vampires",
+				"last_day_players_killed": 10,
+				"last_day_killed": 6829,
+				"last_week_players_killed": 50,
+				"last_week_killed": 24027
+			},
+			{
+				"race": "vicious manbats",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 20
+			},
+			{
+				"race": "vicious squires",
+				"last_day_players_killed": 13,
+				"last_day_killed": 10571,
+				"last_week_players_killed": 103,
+				"last_week_killed": 34703
+			},
+			{
+				"race": "vile grandmasters",
+				"last_day_players_killed": 17,
+				"last_day_killed": 2128,
+				"last_week_players_killed": 44,
+				"last_week_killed": 6467
+			},
+			{
+				"race": "wailing widows",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4,
+				"last_week_players_killed": 0,
+				"last_week_killed": 7
+			},
+			{
+				"race": "war golems",
+				"last_day_players_killed": 0,
+				"last_day_killed": 3,
+				"last_week_players_killed": 0,
+				"last_week_killed": 4
+			},
+			{
+				"race": "war wolves",
+				"last_day_players_killed": 0,
+				"last_day_killed": 6088,
+				"last_week_players_killed": 4,
+				"last_week_killed": 14136
+			},
+			{
+				"race": "warlocks",
+				"last_day_players_killed": 0,
+				"last_day_killed": 7,
+				"last_week_players_killed": 0,
+				"last_week_killed": 16
+			},
+			{
+				"race": "waspoids",
+				"last_day_players_killed": 3,
+				"last_day_killed": 200,
+				"last_week_players_killed": 14,
+				"last_week_killed": 813
+			},
+			{
+				"race": "wasps",
+				"last_day_players_killed": 0,
+				"last_day_killed": 11951,
+				"last_week_players_killed": 3,
+				"last_week_killed": 55321
+			},
+			{
+				"race": "water buffalos",
+				"last_day_players_killed": 0,
+				"last_day_killed": 40,
+				"last_week_players_killed": 0,
+				"last_week_killed": 136
+			},
+			{
+				"race": "water elementals",
+				"last_day_players_killed": 8,
+				"last_day_killed": 8786,
+				"last_week_players_killed": 22,
+				"last_week_killed": 22706
+			},
+			{
+				"race": "weakened demons",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 12
+			},
+			{
+				"race": "weakened frazzlemaws",
+				"last_day_players_killed": 6,
+				"last_day_killed": 477,
+				"last_week_players_killed": 10,
+				"last_week_killed": 1447
+			},
+			{
+				"race": "werebadgers",
+				"last_day_players_killed": 11,
+				"last_day_killed": 4928,
+				"last_week_players_killed": 58,
+				"last_week_killed": 13446
+			},
+			{
+				"race": "werebears",
+				"last_day_players_killed": 4,
+				"last_day_killed": 1274,
+				"last_week_players_killed": 4,
+				"last_week_killed": 2398
+			},
+			{
+				"race": "wereboars",
+				"last_day_players_killed": 10,
+				"last_day_killed": 2953,
+				"last_week_players_killed": 24,
+				"last_week_killed": 6311
+			},
+			{
+				"race": "werefoxes",
+				"last_day_players_killed": 5,
+				"last_day_killed": 3844,
+				"last_week_players_killed": 9,
+				"last_week_killed": 8711
+			},
+			{
+				"race": "werehyaena shamans",
+				"last_day_players_killed": 16,
+				"last_day_killed": 6082,
+				"last_week_players_killed": 34,
+				"last_week_killed": 11629
+			},
+			{
+				"race": "werehyaenas",
+				"last_day_players_killed": 33,
+				"last_day_killed": 16935,
+				"last_week_players_killed": 113,
+				"last_week_killed": 35944
+			},
+			{
+				"race": "werewolves",
+				"last_day_players_killed": 0,
+				"last_day_killed": 609,
+				"last_week_players_killed": 0,
+				"last_week_killed": 783
+			},
+			{
+				"race": "white deer",
+				"last_day_players_killed": 0,
+				"last_day_killed": 83,
+				"last_week_players_killed": 0,
+				"last_week_killed": 388
+			},
+			{
+				"race": "white shades",
+				"last_day_players_killed": 0,
+				"last_day_killed": 0,
+				"last_week_players_killed": 0,
+				"last_week_killed": 58
+			},
+			{
+				"race": "wigglers",
+				"last_day_players_killed": 0,
+				"last_day_killed": 20,
+				"last_week_players_killed": 0,
+				"last_week_killed": 20
+			},
+			{
+				"race": "wild horses",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4,
+				"last_week_players_killed": 0,
+				"last_week_killed": 26
+			},
+			{
+				"race": "wild warriors",
+				"last_day_players_killed": 2,
+				"last_day_killed": 1878,
+				"last_week_players_killed": 5,
+				"last_week_killed": 6615
+			},
+			{
+				"race": "wilting leaf golems",
+				"last_day_players_killed": 3,
+				"last_day_killed": 1012,
+				"last_week_players_killed": 15,
+				"last_week_killed": 5930
+			},
+			{
+				"race": "winter wolves",
+				"last_day_players_killed": 0,
+				"last_day_killed": 5320,
+				"last_week_players_killed": 0,
+				"last_week_killed": 21784
+			},
+			{
+				"race": "wisps",
+				"last_day_players_killed": 0,
+				"last_day_killed": 346,
+				"last_week_players_killed": 0,
+				"last_week_killed": 1062
+			},
+			{
+				"race": "witches",
+				"last_day_players_killed": 0,
+				"last_day_killed": 4328,
+				"last_week_players_killed": 7,
+				"last_week_killed": 14579
+			},
+			{
+				"race": "wolves",
+				"last_day_players_killed": 0,
+				"last_day_killed": 8329,
+				"last_week_players_killed": 26,
+				"last_week_killed": 55299
+			},
+			{
+				"race": "worker golems",
+				"last_day_players_killed": 3,
+				"last_day_killed": 690,
+				"last_week_players_killed": 10,
+				"last_week_killed": 2626
+			},
+			{
+				"race": "worm priestesses",
+				"last_day_players_killed": 9,
+				"last_day_killed": 1041,
+				"last_week_players_killed": 18,
+				"last_week_killed": 2620
+			},
+			{
+				"race": "wyrms",
+				"last_day_players_killed": 27,
+				"last_day_killed": 12738,
+				"last_week_players_killed": 89,
+				"last_week_killed": 33304
+			},
+			{
+				"race": "wyverns",
+				"last_day_players_killed": 1,
+				"last_day_killed": 2346,
+				"last_week_players_killed": 22,
+				"last_week_killed": 10900
+			},
+			{
+				"race": "yielothax",
+				"last_day_players_killed": 3,
+				"last_day_killed": 1353,
+				"last_week_players_killed": 9,
+				"last_week_killed": 2990
+			},
+			{
+				"race": "young sea serpents",
+				"last_day_players_killed": 0,
+				"last_day_killed": 508,
+				"last_week_players_killed": 0,
+				"last_week_killed": 508
+			},
+			{
+				"race": "young trolls",
+				"last_day_players_killed": 0,
+				"last_day_killed": 62,
+				"last_week_players_killed": 0,
+				"last_week_killed": 2260
+			},
+			{
+				"race": "zombies",
+				"last_day_players_killed": 4,
+				"last_day_killed": 1724,
+				"last_week_players_killed": 8,
+				"last_week_killed": 6643
+			}
+		],
+		"total": {
+			"last_day_players_killed": 1091,
+			"last_day_killed": 1317781,
+			"last_week_players_killed": 6038,
+			"last_week_killed": 5878805
+		}
+	},
+	"information": {
+		"api": {
+			"version": 4,
+			"release": "4.6.0",
+			"commit": "7b2441e4932842ebcf46d0743c0c4a8ba16f5326"
+		},
+		"timestamp": "2025-11-03T03:47:57Z",
+		"tibia_urls": [
+			"https://www.tibia.com/community/?subtopic=killstatistics&world=Dracobra"
+		],
+		"status": {
+			"http_code": 200
+		}
+	}
+}
