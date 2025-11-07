@@ -8,7 +8,7 @@ const map = new Map();
 const handleFile = async (fileName) => {
 	const json = await fs.readFile(fileName, 'utf8');
 	const entries = JSON.parse(json).killstatistics.entries;
-	for (const {race, last_day_killed} of entries) {
+	for (const { race, last_day_killed } of entries) {
 		if (map.has(race)) {
 			const prev = map.get(race);
 			map.set(race, prev + last_day_killed);
@@ -24,7 +24,7 @@ const handleLatest = async (fileName) => {
 	const stats = JSON.parse(json).killstatistics;
 	const entries = stats.entries;
 	const world = stats.world;
-	for (const {race, last_day_killed} of entries) {
+	for (const { race, last_day_killed } of entries) {
 		if (last_day_killed <= 0) continue;
 		const prettyName = toPrettyName(race);
 		latestMap.set(prettyName, last_day_killed);
@@ -38,6 +38,28 @@ const fileNames = glob.sync('./data/*/*.json', {
 	ignore: [
 		'./data/_global-total/*.json',
 		'./data/_yesterday/*.json',
+		// Former worlds as of 2025-11-06:
+		// https://www.tibia.com/news/?subtopic=newsarchive&id=8513
+		'./data/vandera/latest.json',
+		'./data/runera/latest.json',
+		'./data/ulera/latest.json',
+		'./data/vitera/latest.json',
+		'./data/esmera/latest.json',
+		'./data/wildera/latest.json',
+		'./data/gravitera/latest.json',
+		'./data/flamera/latest.json',
+		'./data/temera/latest.json',
+		'./data/fibera/latest.json',
+		'./data/jacabra/latest.json',
+		'./data/obscubra/latest.json',
+		'./data/quebra/latest.json',
+		'./data/ambra/latest.json',
+		'./data/divina/latest.json',
+		'./data/malivora/latest.json',
+		'./data/zephyra/latest.json',
+		'./data/wadira/latest.json',
+		'./data/yara/latest.json',
+		'./data/jaguna/latest.json',
 		// Former worlds as of 2023-08-29:
 		'./data/adra/latest.json',
 		'./data/alumbra/latest.json',
@@ -101,16 +123,16 @@ for (const fileName of fileNames) {
 
 const entries = [...map.entries()];
 const sorted = entries
-	.filter(entry => entry[1] > 0)
+	.filter((entry) => entry[1] > 0)
 	.map(([race, kills]) => {
 		return [toPrettyName(race), kills];
 	})
 	.sort((a, b) => {
-	if (a[1] === b[1]) {
-		return a[0].localeCompare(b[0]);
-	}
-	return a[1] - b[1];
-});
+		if (a[1] === b[1]) {
+			return a[0].localeCompare(b[0]);
+		}
+		return a[1] - b[1];
+	});
 
 {
 	const object = Object.fromEntries(sorted);
