@@ -130,6 +130,7 @@ const BOSSES_PER_CATEGORY = new Map([
 		'Brokul',
 		'Chagorz',
 		'Count Vlarkorth',
+		'Count Warlock',
 		'Darkfang',
 		'Deathstrike',
 		'Dragon Pack',
@@ -223,6 +224,7 @@ const BOSSES_PER_CATEGORY = new Map([
 		'Urmahlullu the Weakened',
 		'Utua Stone Sting',
 		'Vemiath',
+		'Vladrukh',
 		'Vok the Freakish',
 		'Yirkas Blue Scales',
 		'Zamulosh',
@@ -230,6 +232,7 @@ const BOSSES_PER_CATEGORY = new Map([
 	])],
 
 	['bane-boss', new Set([
+		'Adlerauge',
 		'Annihilon',
 		'Arthei',
 		'Ashmunrah',
@@ -240,6 +243,7 @@ const BOSSES_PER_CATEGORY = new Map([
 		'Bragrumol',
 		'Bullwark',
 		'Chopper',
+		'Clavius',
 		'Custodian',
 		'Dazed Leaf Golem',
 		'Death Priest Shargon',
@@ -278,12 +282,14 @@ const BOSSES_PER_CATEGORY = new Map([
 		'Marziel',
 		'Maw',
 		'Mephiles',
+		'Michael the Stalwart',
 		'Mindmasher',
 		'Monstor',
 		'Morguthis',
 		'Mozradek',
 		'Obujos',
 		'Omruc',
+		'Overseer Osverger',
 		'Preceptor Lazare',
 		'Professor Maxxen',
 		'Rahemos',
@@ -724,6 +730,17 @@ const BOSSES_PER_CATEGORY = new Map([
 
 	['bloody-tusks-boss', new Set([
 		'Vladrukh',
+	])],
+
+	['order-of-the-stag-boss', new Set([
+		// Bane bosses.
+		'Adlerauge',
+		'Clavius',
+		'Michael the Stalwart',
+		'Overseer Osverger',
+
+		// Archfoe boss.
+		'Count Warlock',
 	])],
 
 ]);
