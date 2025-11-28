@@ -743,6 +743,15 @@ const BOSSES_PER_CATEGORY = new Map([
 		'Count Warlock',
 	])],
 
+	['roost-of-the-graveborn-boss', new Set([
+		// Archfoe bosses.
+		'Adventurer Group',
+		'Eldritch Dragon Lord',
+		'Ice Horror',
+		'The Gravedigger',
+		'Bone Overlord',
+	])],
+
 ]);
 
 // All bosses.
